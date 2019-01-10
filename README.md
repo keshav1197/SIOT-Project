@@ -19,7 +19,7 @@ the plant health monitor might change and the "NOW" colour will change.
 
 - Sensing.INO - The arduino code used for the sensing of both the weather and colour information.   
 
-- TS_analysis.m - Performs the basic time series analysis, and fing the correlation coefficient. Generates plots for autocorrelation 
+- TS_analysis.m - Performs the basic time series analysis, and find the correlation coefficient. Generates plots for autocorrelation 
 and regression as well to understand its behaviour in the next 24 hours.   
 
 - NodeMCU.csv - The data file, which was stored in a Google Sheet, and updated for 9 days.   
